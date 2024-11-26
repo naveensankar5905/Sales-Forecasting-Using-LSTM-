@@ -54,6 +54,3 @@ This project is licensed under the [MIT License](LICENSE).
 ### © 2024 Naveen Sankar RS  
 All rights reserved.  
 
----
-
-Let me know if you need further customizations!
